@@ -1,6 +1,12 @@
+# --- Streamlit app deps ---
 streamlit==1.38.0
 pandas==2.2.3
-numpy==2.1.1
-joblib==1.4.2
 plotly==5.24.1
-scikit-learn==1.5.2
+joblib==1.4.2
+
+# --- EBM deps ---
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.3.2
+interpret==0.6.1
+
